@@ -37,7 +37,7 @@ variable "ami" {
 
 variable "avail_zone" {
   type    = string
-  default = "eu-north-1"
+  default = "eu-north-1a"
 }
 
 
